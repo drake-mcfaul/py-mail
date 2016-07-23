@@ -8,8 +8,8 @@ from email.MIMEText import MIMEText
 fromaddr = "andoverace10@gmail.com"
 password = "gobigblue"
 toaddr = "psanchez@andover.edu"
-subject = "Citizenship"
-body = "Hello from the federales. We have reviewed your papers and scheduled a meeting to... talk. Please respond with a time that is convenient for you. "
+subject = "Hello"
+body = "Hello from the federales."
 ##############################################
 
 print "Sending email from %s to %s..." % (fromaddr, toaddr)
